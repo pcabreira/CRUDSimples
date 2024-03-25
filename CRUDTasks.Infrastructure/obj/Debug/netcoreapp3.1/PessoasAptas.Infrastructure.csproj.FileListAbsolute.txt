@@ -1,0 +1,16 @@
+C:\Estudos\PessoasAptas\PessoasAptas.Infrastructure\bin\Debug\netcoreapp3.1\PessoasAptas.Infrastructure.deps.json
+C:\Estudos\PessoasAptas\PessoasAptas.Infrastructure\bin\Debug\netcoreapp3.1\PessoasAptas.Infrastructure.runtimeconfig.json
+C:\Estudos\PessoasAptas\PessoasAptas.Infrastructure\bin\Debug\netcoreapp3.1\PessoasAptas.Infrastructure.runtimeconfig.dev.json
+C:\Estudos\PessoasAptas\PessoasAptas.Infrastructure\bin\Debug\netcoreapp3.1\PessoasAptas.Infrastructure.dll
+C:\Estudos\PessoasAptas\PessoasAptas.Infrastructure\bin\Debug\netcoreapp3.1\PessoasAptas.Infrastructure.pdb
+C:\Estudos\PessoasAptas\PessoasAptas.Infrastructure\bin\Debug\netcoreapp3.1\PessoasAptas.Core.dll
+C:\Estudos\PessoasAptas\PessoasAptas.Infrastructure\bin\Debug\netcoreapp3.1\PessoasAptas.Core.pdb
+C:\Estudos\PessoasAptas\PessoasAptas.Infrastructure\obj\Debug\netcoreapp3.1\PessoasAptas.Infrastructure.csproj.AssemblyReference.cache
+C:\Estudos\PessoasAptas\PessoasAptas.Infrastructure\obj\Debug\netcoreapp3.1\PessoasAptas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\PessoasAptas\PessoasAptas.Infrastructure\obj\Debug\netcoreapp3.1\PessoasAptas.Infrastructure.AssemblyInfoInputs.cache
+C:\Estudos\PessoasAptas\PessoasAptas.Infrastructure\obj\Debug\netcoreapp3.1\PessoasAptas.Infrastructure.AssemblyInfo.cs
+C:\Estudos\PessoasAptas\PessoasAptas.Infrastructure\obj\Debug\netcoreapp3.1\PessoasAptas.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Estudos\PessoasAptas\PessoasAptas.Infrastructure\obj\Debug\netcoreapp3.1\PessoasAptas.Infrastructure.csproj.CopyComplete
+C:\Estudos\PessoasAptas\PessoasAptas.Infrastructure\obj\Debug\netcoreapp3.1\PessoasAptas.Infrastructure.dll
+C:\Estudos\PessoasAptas\PessoasAptas.Infrastructure\obj\Debug\netcoreapp3.1\PessoasAptas.Infrastructure.pdb
+C:\Estudos\PessoasAptas\PessoasAptas.Infrastructure\obj\Debug\netcoreapp3.1\PessoasAptas.Infrastructure.genruntimeconfig.cache

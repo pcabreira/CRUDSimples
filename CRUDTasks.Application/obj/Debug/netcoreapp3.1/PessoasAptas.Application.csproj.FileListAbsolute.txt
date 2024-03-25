@@ -1,0 +1,13 @@
+C:\Estudos\PessoasAptas\PessoasAptas.Application\bin\Debug\netcoreapp3.1\PessoasAptas.Application.deps.json
+C:\Estudos\PessoasAptas\PessoasAptas.Application\bin\Debug\netcoreapp3.1\PessoasAptas.Application.dll
+C:\Estudos\PessoasAptas\PessoasAptas.Application\bin\Debug\netcoreapp3.1\PessoasAptas.Application.pdb
+C:\Estudos\PessoasAptas\PessoasAptas.Application\bin\Debug\netcoreapp3.1\PessoasAptas.Core.dll
+C:\Estudos\PessoasAptas\PessoasAptas.Application\bin\Debug\netcoreapp3.1\PessoasAptas.Core.pdb
+C:\Estudos\PessoasAptas\PessoasAptas.Application\obj\Debug\netcoreapp3.1\PessoasAptas.Application.csproj.AssemblyReference.cache
+C:\Estudos\PessoasAptas\PessoasAptas.Application\obj\Debug\netcoreapp3.1\PessoasAptas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\PessoasAptas\PessoasAptas.Application\obj\Debug\netcoreapp3.1\PessoasAptas.Application.AssemblyInfoInputs.cache
+C:\Estudos\PessoasAptas\PessoasAptas.Application\obj\Debug\netcoreapp3.1\PessoasAptas.Application.AssemblyInfo.cs
+C:\Estudos\PessoasAptas\PessoasAptas.Application\obj\Debug\netcoreapp3.1\PessoasAptas.Application.csproj.CoreCompileInputs.cache
+C:\Estudos\PessoasAptas\PessoasAptas.Application\obj\Debug\netcoreapp3.1\PessoasAptas.Application.csproj.CopyComplete
+C:\Estudos\PessoasAptas\PessoasAptas.Application\obj\Debug\netcoreapp3.1\PessoasAptas.Application.dll
+C:\Estudos\PessoasAptas\PessoasAptas.Application\obj\Debug\netcoreapp3.1\PessoasAptas.Application.pdb

@@ -1,0 +1,5 @@
+C:\Estudos\PessoasAptas\PessoasAptas.UnitTests\obj\Debug\netcoreapp3.1\PessoasAptas.UnitTests.csproj.AssemblyReference.cache
+C:\Estudos\PessoasAptas\PessoasAptas.UnitTests\obj\Debug\netcoreapp3.1\PessoasAptas.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\PessoasAptas\PessoasAptas.UnitTests\obj\Debug\netcoreapp3.1\PessoasAptas.UnitTests.AssemblyInfoInputs.cache
+C:\Estudos\PessoasAptas\PessoasAptas.UnitTests\obj\Debug\netcoreapp3.1\PessoasAptas.UnitTests.AssemblyInfo.cs
+C:\Estudos\PessoasAptas\PessoasAptas.UnitTests\obj\Debug\netcoreapp3.1\PessoasAptas.UnitTests.csproj.CoreCompileInputs.cache
